@@ -5,8 +5,8 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/StdKing"><img alt="Website" src="https://img.shields.io/badge/𝗦𝘁𝗱𝗞𝗶𝗻𝗴-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/fork)
+[![Stars](https://img.shields.io/github/stars/StdKing/StringGenBot?style=social)](https://github.com/StdKing/StringGenBot/stargazers)
+  [![Forks](https://img.shields.io/github/forks/StdKing/StringGenBot?style=social)](https://github.com/StdKing/StringGenBot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -31,7 +31,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherBot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherRobot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -45,7 +45,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025)
+- » [𝗦𝘁𝗱𝗞𝗶𝗻𝗴](https://github.com/StdKing)
 - » [Stark](https://github.com/StarkBotsIndustries)
 - » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [LonamiWebs](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
